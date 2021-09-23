@@ -69,7 +69,7 @@
     "carbon-themes": "^1.7.0",
     "husky": "^4.3.0",
     "jest": "^24.9.0",
-    "jest-puppeteer": "^4.4.0",
+    "jest-puppeteer": "^6.0.0",
     "lint-staged": "^10.4.0",
     "node-sass": "^4.14.1",
     "nodemon": "^2.0.4",
